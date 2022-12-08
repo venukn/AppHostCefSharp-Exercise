@@ -1,0 +1,9 @@
+/.vs
+/Build/
+/packages
+*.suo
+*.user
+*.DotSettings
+bin/
+obj/
+_ReSharper.Caches/
